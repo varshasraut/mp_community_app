@@ -1,0 +1,5 @@
+[06-Nov-2020 12:43:46 Asia/Calcutta] PHP Fatal error:  Class 'ZipArchive' not found in /home/speroems/public_html/communityapp/application/controllers/Call.php on line 215
+[06-Nov-2020 12:51:42 Asia/Calcutta] PHP Fatal error:  Class 'ZipArchive' not found in /home/speroems/public_html/communityapp/application/controllers/Call.php on line 215
+[06-Nov-2020 12:52:20 Asia/Calcutta] PHP Fatal error:  Class 'ZipArchive' not found in /home/speroems/public_html/communityapp/application/controllers/Call.php on line 215
+[06-Nov-2020 12:53:47 Asia/Calcutta] PHP Fatal error:  Class 'ZipArchive' not found in /home/speroems/public_html/communityapp/application/controllers/Call.php on line 215
+[06-Nov-2020 15:46:14 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/speroems/public_html/communityapp/application/models/Login_model.php on line 29
